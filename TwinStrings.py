@@ -1,4 +1,4 @@
-```
+```python
 a = ['cdab','abcd']
 b = ['dcba','abcd']
 
