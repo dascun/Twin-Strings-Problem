@@ -1,4 +1,3 @@
-```python
 a = ['cdab','abcd']
 b = ['dcba','abcd']
 
@@ -31,4 +30,3 @@ for i in range(n):
         result.append('No')
 
 print(result)
-```
